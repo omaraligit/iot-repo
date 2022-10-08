@@ -55,14 +55,5 @@ void setup()
 
 void loop()
 {
-    servo1.write(0);
-    delay(2000);
-    servo1.write(45);
-    delay(2000);
-    servo1.write(90);
-    delay(2000);
-    servo1.write(135);
-    delay(2000);
-    servo1.write(170);
-    delay(2000);
+
 }
